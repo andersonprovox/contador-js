@@ -1,5 +1,5 @@
 # Contador Usando Javascript
-Contador criado de acordo com o courso de introdução ao JavaScript da Digital Innovation one.
+Contador criado de acordo com o curso de introdução ao JavaScript da Digital Innovation one.
 
 - Inserido um contador de incrementa e decrementa um numero inteiro através das ações de botões.
 - Quando a contagem chega a 10 o botão de adicionar números na contagem é desabilitado.
